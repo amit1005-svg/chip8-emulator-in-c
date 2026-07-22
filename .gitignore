@@ -1,0 +1,6 @@
+include
+lib
+*.exe
+*.dll
+*.pdf
+*.ch8
